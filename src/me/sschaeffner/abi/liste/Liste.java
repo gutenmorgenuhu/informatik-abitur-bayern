@@ -106,7 +106,7 @@ public class Liste {
      * Gibt Informationen über sich selbst auf der Standardausgabe aus.
      */
     public void informationAusgeben() {
-        System.out.println(this);
+        anfang.informationAusgeben();
     }
 
     /**
